@@ -1,0 +1,7 @@
+CONNECT comp431.cs.unc.edu 21
+GET HelloWorld.java
+GET lan-image.jpg
+GET phone.gif
+GET state-machine.pdf
+GET unc-logo.png
+QUIT
